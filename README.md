@@ -1,6 +1,6 @@
-Motion Segmentation 3D
+Feature Analysis in 3d
 =================
-GUI for Motion Segmentation in 3D
+GUI for Feature Analysis in 3d, mainly on performances evaluations on 3d feature detector and descriptors.
 
 Project file Overview
 ---------------------
