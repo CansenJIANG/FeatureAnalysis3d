@@ -29,7 +29,8 @@ FORMS    += src/PclViewer.ui
 
 INCLUDEPATH += /usr/include/vtk-5.8 \
                 /usr/local/include/pcl-1.8 \
-                /home/jiang/CvLibs/eigen3.2.3 \
+#                /home/jiang/CvLibs/eigen3.2.3 \
+                /usr/include/eigen3 \
                 /usr/include/boost \
                 /usr/include/ni
 

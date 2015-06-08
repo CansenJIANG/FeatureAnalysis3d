@@ -80,6 +80,7 @@
 #include <pcl/registration/correspondence_rejection_sample_consensus.h>
 
 // Eigen
+#define EIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET
 #include <Eigen/Core>
 #include <Eigen/Dense>
 
