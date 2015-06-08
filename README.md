@@ -21,7 +21,7 @@ Project file Overview
     |- scratch/         # temporary files that can be safely deleted or lost
     |
     |- README           # the top level description of content
-    |- denseMatch3D.pro # the project descriptor for QTcreator
+    |- FeatureAnalysis3d.pro # the project descriptor for QTcreator
     |- Makefile         # executable Makefile for this study, if applicable
     |- datapackage.json # metadata for the (input and output) data files 
 
@@ -30,10 +30,10 @@ Project file Overview
 Todo
 ----
 
-- [ ] Finish this README file
-- [ ] See doc/README
-- [ ] Change the linece file
-- [ ] Move files around, so that fits the structure
+- [ ] Update README file whenever new functionalities added to the GUI.
+- [ ] Detail analysis for evaluation on different feature detector and descriptor.
+- [ ] Comment all the functions that you added.
+- [ ] Weekly reports for the progress.
 - [ ] 
 
 
