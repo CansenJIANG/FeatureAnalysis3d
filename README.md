@@ -35,8 +35,10 @@ Dependencies
 * Boost Library (http://www.boost.org/)
 
 For linux user:
-Your can download most of the software from Synaptic Package Manager (https://help.ubuntu.com/community/SynapticHowto). 
-For the latest version of PCL, you are suggest to download from the Github release (https://github.com/PointCloudLibrary/pcl).
+Your can download most of the software from Synaptic Package Manager (https://help.ubuntu.com/community/SynapticHowto). For the latest version of PCL, you are suggested to download from the Github release (https://github.com/PointCloudLibrary/pcl). 
+
+NOTE: you might need to add the definition before calling the Eigen library:
+	''' #define EIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET '''
 
 For windows user: Not tested yet. 
 
