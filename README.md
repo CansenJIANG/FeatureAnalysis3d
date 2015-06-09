@@ -26,10 +26,22 @@ Project file Overview
     |- datapackage.json # metadata for the (input and output) data files 
 
 
+Dependencies
+------------
+* Qt-4 (https://www.qt.io/download-open-source/)
+* VTK-5.8 Library (http://www.vtk.org/download/)
+* Point Cloud Library 1.8.0 (http://pointclouds.org/) 
+* Eigen Library (http://eigen.tuxfamily.org/index.php?title=Main_Page)
+* Boost Library (http://www.boost.org/)
+
+For linux user:
+Your can download most of the software from Synaptic Package Manager (https://help.ubuntu.com/community/SynapticHowto). 
+For the latest version of PCL, you are suggest to download from the Github release (https://github.com/PointCloudLibrary/pcl).
+
+For windows user: Not tested yet. 
 
 Todo
 ----
-
 - [ ] Update README file whenever new functionalities added to the GUI.
 - [ ] Detail analysis for evaluation on different feature detector and descriptor.
 - [ ] Comment all the functions that you added.
